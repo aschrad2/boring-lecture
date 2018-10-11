@@ -10,3 +10,8 @@ body {
   font-style: italic;
   font-weight: bold;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
