@@ -2,10 +2,11 @@ body {
   text-align: center;
   font-family: sans-serif;
   line-height: 1.5em;
+  background-color: salmon;
+  color: black;
 }
 
 .intro {
   font-style: italic;
-  color: green;
   font-weight: bold;
 }
